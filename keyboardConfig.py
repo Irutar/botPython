@@ -1,0 +1,1 @@
+HIDING_AF_ICONS = '8'

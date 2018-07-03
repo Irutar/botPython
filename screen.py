@@ -44,4 +44,3 @@ def locate_image_on_part_screen(resource_image, screen_image, icon_coordinates):
         resource_icon_coordinates[3] = resource_icon_coordinates[3] + icon_coordinates[3]
         resource_icon_coordinates = tuple(resource_icon_coordinates)
     return resource_icon_coordinates
-

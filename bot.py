@@ -1,6 +1,11 @@
-import screen
+import inputDevices
+import images
 
 
 def start():
-    screen.fullSS()
-    print("finished")
+    x = None
+    y = 10
+    z = min(x, y)
+    print(z)
+
+
